@@ -5,7 +5,7 @@ using namespace std;
 int main (){
 
   cout << "Hello Arkademian Fighters!" << endl;
-  cput << "This is an exercise" << end;
+  cout << "This is an exercise" << endl;
   cout << endl;
   return 0;
    
